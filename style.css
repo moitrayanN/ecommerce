@@ -1,0 +1,38 @@
+.logo {
+    width: 80px;
+}
+
+nav {
+    display: flex;
+    flex-direction: column;
+}
+
+/* .container {
+    display: flex;
+} */
+
+.card {
+    padding: 2vw 2vh;
+    padding-bottom: 0;
+}
+
+#primeFlyout {
+    width: 200px;
+}
+
+.oldrow {
+    row-gap: 20px;
+    background-color: rgb(196, 231, 231);
+}
+
+#foot1 {
+    font-size: smaller;
+}
+
+#foot2 {
+    width: 20%;
+}
+
+#foot3 {
+    font-size: smaller;
+}
